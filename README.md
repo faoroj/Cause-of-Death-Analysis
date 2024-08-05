@@ -6,3 +6,9 @@ The project aims to analyze global mortality data across various causes of death
 2. Data Visualization: Create visualizations to effectively communicate the distribution and trends of mortality data, including heatmaps, bar charts, and pie charts.
 3. Public Health Implications: Provide actionable insights that could inform public health policies and initiatives to address significant causes of death.
 4. Identify Major Causes: Determine the leading causes of death worldwide and by individual country.
+
+### **Key Questions:**
+1. How have the leading causes of death changed over time?
+2. Which countries have the highest and lowest mortality rates for specific causes of death?
+3. Are there any significant regional patterns or anomalies in the data?
+4. What are the leading causes of death globally and how do they differ by region?
